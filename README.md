@@ -1,15 +1,79 @@
-<h1 align="center">Hi 👋, I'm Dekani Nikunjkumar</h1>
-<h3 align="center">Data Analyst</h3>
+👋 Hi, I’m Nikunjkumar Dekani
 
-- 🌱 I’m currently learning **python, SQL, Power Bi**
+🎯 Data Analyst | Research Analyst | Statistician
+📍 Surat, India | ✉️ Email Me
+ | 🔗 LinkedIn
 
-- 📫 How to reach me **dekaninikunj@gmail.com**
+🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dekani nikunjkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dekani nikunjkumar" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_niks_dekani_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_niks_dekani_2001" height="30" width="40" /></a>
-</p>
+I am an analytical and detail-oriented Data Analyst with expertise in statistical analysis, business intelligence, and market research.
+I have completed my M.Sc. in Applied Statistics from Veer Narmad South Gujarat University (2022–2024).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Currently, I am working as a Research Analyst at Junomoneta Finsol Pvt Ltd (2024 – Present), where I:
+
+📊 Analyze market trends, investment opportunities, and risk factors
+
+🛠 Build Excel & Power BI dashboards for business insights
+
+🔍 Conduct statistical research to support trading strategies
+
+🚀 Contribute to data-driven decision-making in real-time scenarios
+
+💡 Passionate about turning raw data into insights, I specialize in SQL, Python, R, Excel, Power BI, and SPSS.
+
+🧰 Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+💼 Professional Experience
+🔹 Research Analyst – Junomoneta Finsol Pvt Ltd. (2024 – Present)
+
+Analyzed market trends, investment opportunities, and risk factors
+
+Developed and adjusted data-driven trading strategies
+
+Created Excel & Power BI dashboards for reporting and decision-making
+
+Conducted statistical analysis to guide investment strategies
+
+📂 Featured Projects
+
+🛒 Retail Sales Analysis (SQL)
+
+Database creation, cleaning, and business insights using SQL queries.
+
+🌊 Tapi River Sustainability: Surat’s Lifeline and Beyond
+Environmental analysis using Python, Google Earth Engine & GIS tools.
+
+📈 Dashboards in Excel & Power BI
+Interactive dashboards & KPI reports for business intelligence.
+
+📜 Education
+
+🎓 M.Sc. in Applied Statistics – Veer Narmad South Gujarat University (2022 – 2024) ✅ Completed
+🎓 B.Com in Commerce – Veer Narmad South Gujarat University (2019 – 2022)
+
+📊 GitHub Stats
+
+
+
+
+
+
+📫 Connect With Me
+
+
+
+
+
+
+✨ “Transforming data into actionable strategies for smarter decisions.”
