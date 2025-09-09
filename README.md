@@ -1,11 +1,11 @@
-##👋 Hi, I’m Nikunjkumar Dekani##
+#👋 Hi, I’m Nikunjkumar Dekani#
 
 **🎯 Data Analyst | Research Analyst | Statistician**
 📍 Surat, India | 
 
 **🚀 About Me**
 
--***I am an analytical and detail-oriented Data Analyst with expertise in statistical analysis, business intelligence, and market research.**
+-***I am an analytical and detail-oriented Data Analyst with expertise in statistical analysis, business intelligence, and market research.***
 -***I have completed my M.Sc. in Applied Statistics from Veer Narmad South Gujarat University (2022–2024).***
 -***Currently, I am working as a Research Analyst at Junomoneta Finsol Pvt Ltd (2024 – Present), where I:***
 
@@ -60,4 +60,4 @@
 📧 [Email](dekaninikunj@gmail.com)
 
 
-###✨ “Transforming data into actionable strategies for smarter decisions.”###
+#✨ “Transforming data into actionable strategies for smarter decisions.”#
